@@ -1,4 +1,4 @@
-# Template Rapport PFA/PFE — ISMAGI
+# Template Rapport PFA/PFE
 
 Structure LaTeX prête à l'emploi pour rédiger un rapport de Projet de Fin d'Année.
 Consultez également le fichier `guide-latex-pfa.tex` pour un cours complet sur LaTeX.
